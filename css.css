@@ -26,7 +26,7 @@
     }
     .intro {
        background-color:rgba(0, 0, 0, 0.3);
-       height: 100%;
+       max-height: 100%;
        display: flex;
        justify-content: left;
        align-items: center;
@@ -42,7 +42,7 @@
         color: aliceblue;
     }
 .textP {
-    width: 50%;
+    max-width: 50%;
     text-align: center;
     font-family: 'Antonio', sans-serif;
 }
@@ -52,7 +52,7 @@ p.text2 {
     color: seashell;
 }
 .social {
-    width: 100%;
+    max-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;

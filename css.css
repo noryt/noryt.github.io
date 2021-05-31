@@ -1,0 +1,43 @@
+.list {
+    display: grid;
+    grid-template-rows: repeat(8, 0.05fr);
+    row-gap: 1em;
+    }
+    [class*="bar"] {
+        background-color: rgb(88, 157, 235);
+        grid-column-start: 1;
+        grid-column-end: 90;
+        font-family: 'Oswald', sans-serif;
+        color: rgb(8, 8, 7);
+        font-size: 80%;
+      }
+    .html {grid-column-end: 90;}
+    .seo{ grid-column-end: 80;}
+    .Javascript {grid-column-end: 80;}
+    .ux {grid-column-end: 80;}
+    .photography {grid-column-end: 80;}
+    .php{grid-column-end: 60;}
+    p.text2 {
+        font-family: 'Antonio', sans-serif;
+        font-size: 3em;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+    .intro {
+       background-color:rgba(0, 0, 0, 0.5);
+       height: 100%;
+       justify-content: flex-end;
+    }
+    .first{
+        background: url(bg.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    h1 {
+        color: aliceblue;
+    }
+.textP {
+    width: 50%;
+}

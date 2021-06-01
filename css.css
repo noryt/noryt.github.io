@@ -93,7 +93,7 @@ p.text2 {
     .textP {
         max-width: 100%;
         text-align: center;
-        padding-top: 50%;
+        padding-top: 10%;
         font-size: 16px;
         justify-content: center;
     }

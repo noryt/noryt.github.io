@@ -72,11 +72,7 @@ p.text2 {
 .more {
     background-color:rgba(0, 0, 0, 0.2);
 }
-.box {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
@@ -91,10 +87,7 @@ p.text2 {
     h1{
         font-size: 20px;
     }
-    .pic {
-        width: 100%;
-        height: auto;
-    }
+  
     p.text2 {
         font-size: 16px;
     }

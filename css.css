@@ -94,4 +94,10 @@ p.text2 {
         font-size: 1rem;
         justify-content: center;
     }
+    .intro {
+        padding-top: 10%;
+        max-height: auto;
+        justify-content: center;
+
+    }
   }

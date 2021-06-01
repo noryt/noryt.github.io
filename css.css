@@ -75,7 +75,7 @@ p.text2 {
         font-size: 1rem;
     }
     .pic {
-        width: 50%;
+        width: 20%;
         height: auto;
     }
     p.text2 {
@@ -87,4 +87,10 @@ p.text2 {
     .list {
         width: 100%;
     }
+    .textP {
+        max-width: 100%;
+        text-align: center;
+        padding-top: 20%;
+        font-size: 1rem;
+
   }

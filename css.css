@@ -90,7 +90,8 @@ p.text2 {
     .textP {
         max-width: 100%;
         text-align: center;
-        padding-top: 30%;
+        padding-top: 50%;
         font-size: 1rem;
+        justify-content: center;
     }
   }

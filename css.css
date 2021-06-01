@@ -10,7 +10,6 @@
         grid-column-end: 90;
         font-family: 'Oswald', sans-serif;
         color: rgb(255, 255, 255);
-        font-size: 80%;
       }
     .html {grid-column-end: 90;}
     .seo{ grid-column-end: 80;}
@@ -45,6 +44,7 @@
     max-width: 50%;
     text-align: center;
     font-family: 'Antonio', sans-serif;
+    padding-top: 10%;
 }
 p.text2 {
     font-family: 'Antonio', sans-serif;
@@ -70,5 +70,21 @@ p.text2 {
   @media screen and (max-width: 600px) {
     .row {
       flex-direction: column;
+    }
+    h1{
+        font-size: 1rem;
+    }
+    .pic {
+        width: 50%;
+        height: auto;
+    }
+    p.text2 {
+        font-size: 1rem;
+    }
+    p{
+        font-size: 1rem;
+    }
+    .list {
+        width: 100%;
     }
   }

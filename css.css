@@ -78,7 +78,7 @@ p.text2 {
         font-size: 16px;
     }
     .pic {
-        width: 20%;
+        width: 40%;
         height: auto;
     }
     p.text2 {
@@ -93,7 +93,6 @@ p.text2 {
     .textP {
         max-width: 100%;
         text-align: center;
-        padding: 20%;
         font-size: 20px;
         justify-content: center;
     }
@@ -101,6 +100,8 @@ p.text2 {
         max-height: 50%;
         justify-content: center;
         align-items: flex-start;
+        padding: 20%;
+
 
     }
   }

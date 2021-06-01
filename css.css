@@ -72,7 +72,7 @@ p.text2 {
       flex-direction: column;
     }
     h1{
-        font-size: 1rem;
+        font-size: 1em;
     }
     .pic {
         width: 20%;
@@ -91,11 +91,11 @@ p.text2 {
         max-width: 100%;
         text-align: center;
         padding-top: 50%;
-        font-size: 1rem;
+        font-size: 1em;
         justify-content: center;
     }
     .intro {
-        padding-top: 10%;
+        padding-top: 30%;
         max-height: auto;
         justify-content: center;
 

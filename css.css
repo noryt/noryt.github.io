@@ -32,6 +32,7 @@ body {
        display: flex;
        justify-content: center;
        align-items: center;
+
     }
   
     .first{
@@ -100,7 +101,7 @@ p.text2 {
     .intro {
         max-height: 50%;
         justify-content: center;
-        align-items: flex-start;
+        align-items: center;
         padding-top: 30%;
 
 

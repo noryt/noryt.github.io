@@ -61,3 +61,14 @@ p.text2 {
 .more {
     background-color:rgba(0, 0, 0, 0.2);
 }
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col"] {
+      width: 100%;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .row {
+      flex-direction: column;
+    }
+  }

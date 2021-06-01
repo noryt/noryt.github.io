@@ -75,7 +75,7 @@ p.text2 {
       flex-direction: column;
     }
     h1{
-        font-size: 16px;
+        font-size: 20px;
     }
     .pic {
         width: 40%;
@@ -89,6 +89,7 @@ p.text2 {
     }
     .list {
         width: 100%;
+        font-size: 16px;
     }
     .textP {
         max-width: 100%;
@@ -100,7 +101,7 @@ p.text2 {
         max-height: 50%;
         justify-content: center;
         align-items: flex-start;
-        padding: 20%;
+        padding-top: 0%;
 
 
     }

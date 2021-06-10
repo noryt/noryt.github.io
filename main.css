@@ -262,7 +262,7 @@ height: 100vh;
         display: none;
     }
     .text {
-        display: none;
+        font-size: 3vh;
     }
     .social {
         flex-direction: column;
